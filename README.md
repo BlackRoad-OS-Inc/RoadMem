@@ -1,3 +1,11 @@
+# RoadMem
+
+> RoadMem — Sovereign agent memory. Fork of mem0. Hybrid vector+graph, 26% better context retrieval. Proprietary BlackRoad OS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # RoadMem — Sovereign Agent Memory
 
 > Forked from [mem0](https://github.com/mem0ai/mem0). Customized for BlackRoad OS agent fleet.
